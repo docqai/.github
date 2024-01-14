@@ -1,6 +1,6 @@
 # Welcome to Docq
 
-[Docq](https://github.com/docqai) is a group of open source projects developed and sponsored by [Docq.AI](https://docq.ai).
+[Docq](https://github.com/docqai) is a group of open source projects developed and sponsored by FABR Ltd t/a [Docq.AI](https://docq.ai).
 
 Community engagement is important to us.
 
